@@ -1,3 +1,22 @@
+# Chatbot Development Using Transformer Models
+
+## Overview
+This project focuses on the development of a question-answering (QA) chatbot using transformer-based models, specifically RoBERTa. The chatbot is designed to understand user queries and generate contextually relevant responses, showcasing practical applications of natural language processing (NLP).
+
+## Objective
+The primary goal of this project is to create a robust chatbot by:
+- Utilizing a pre-trained transformer model (RoBERTa) for fine-tuning.
+- Training the model on a dataset of conversational pairs to enhance its ability to provide accurate responses.
+
+## Steps
+1. **Data Collection and Preparation**: Gather and preprocess a dataset of question-answer pairs.
+2. **Model Selection**: Implement the RoBERTa model for the chatbot functionality.
+3. **Training and Fine-Tuning**: Customize the model to improve its response generation capabilities.
+4. **Evaluation**: Measure the model's performance using established metrics.
+5. **User Interface**: Develop a user-friendly interface for interaction with the chatbot.
+
+## Evaluation Metrics
+
 ### Observations
 
 #### Improved Answer Relevance
